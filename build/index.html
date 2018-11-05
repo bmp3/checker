@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<head lang="ru">
+    <meta charset="UTF-8">
+    <title>test</title>
+    <link rel="stylesheet" id="main_custom_css-css" href="css/style.css" type="text/css" media="all">
+    <link rel="stylesheet" id="main_custom_css-css" href="css/font-awesome.css" type="text/css" media="all">
+    <script src="js/jquery.js"></script>
+    <script src="js/scripts.js"></script>
+</head>
+<body>
+
+<?php
+
+    include( 'info.php' );
+    $data = null;
+    while( !$data ) {
+        $data = get_info( 'USD', 'return' );
+    }
+
+    echo '<script type="text/javascript">var loadedData = ' . json_encode( $data ) . ';</script>';
+
+?>
+
+    <section class="content">
+        <div class="container">
+            <div class="row">
+                <div class="select-container col-lg-12">
+
+                    <div class="title">Select currency to exchange:</div>
+                    <div class="selection-box">
+                        <div class="main-select select-box">
+                            <a href="USD" data-symbol="$" class="current fa fa-angle-down">USD</a>
+                        </div>
+                        <div class="inner-select select-box">
+                            <a href="EUR" data-symbol="€">EUR</a>
+                            <a href="RUB" data-symbol="₽">RUB</a>
+                            <a href="GBP" data-symbol="£">GBP</a>
+                        </div>
+                    </div>
+
+                </div>
+            </div>
+            <div class="content-row row">
+                <div class="c-box eth col-lg-4 col-md-6 col-sm-12">
+                    <div class="c-item eth" data-coin="ETH" data-mode="percent">
+                        <div class="trl"></div>
+                        <div class="title">Ehtereum</div>
+                        <div class="img-box">
+                            <img src="img/eth-coin.png">
+                        </div>
+                        <div class="price line clearfix">Price:<span class="price-value righted">$<?php echo $data['ETH']->last; ?></span></div>
+                        <div class="switch-box line clearfix">
+                            Percent change
+                            <span class="switch on righted">
+                                <div class="switcher"></div>
+                                <div class="reciever-on reciever"></div>
+                                <div class="reciever-off reciever"></div>
+                            </span>
+                        </div>
+                        <div class="hour change-box line clearfix"><span class="semi-transparent">Hour change</span><span class="change-value righted"><?php echo $data['ETH']->changes->percent->hour; ?>%</span></div>
+                        <div class="day change-box line clearfix"><span class="semi-transparent">Day change</span><span class="change-value righted"><?php echo $data['ETH']->changes->percent->day; ?>%</span></div>
+                        <div class="week change-box line clearfix"><span class="semi-transparent">Week change</span><span class="change-value righted"><?php echo $data['ETH']->changes->percent->week; ?>%</span></div>
+                        <div class="month change-box line clearfix"><span class="semi-transparent">Month change</span><span class="change-value righted"><?php echo $data['ETH']->changes->percent->month; ?>%</span></div>
+                    </div>
+                </div>
+                <div class="c-box ltc col-lg-4 col-md-6 col-sm-12">
+                    <div class="c-item ltc" data-coin="LTC" data-mode="percent">
+                        <div class="trl"></div>
+                        <div class="title">Litecoin</div>
+                        <div class="img-box">
+                            <img src="img/ltc-coin.png">
+                        </div>
+                        <div class="price line clearfix">Price:<span class="price-value righted">$<?php echo $data['LTC']->last; ?></span></div>
+                        <div class="switch-box line clearfix">
+                            Percent change
+                            <span class="switch on righted">
+                                <div class="switcher"></div>
+                                <div class="reciever-on reciever"></div>
+                                <div class="reciever-off reciever"></div>
+                            </span>
+                        </div>
+                        <div class="hour change-box line clearfix"><span class="semi-transparent">Hour change</span><span class="change-value righted"><?php echo $data['LTC']->changes->percent->hour; ?>%</span></div>
+                        <div class="day change-box line clearfix"><span class="semi-transparent">Day change</span><span class="change-value righted"><?php echo $data['LTC']->changes->percent->day; ?>%</span></div>
+                        <div class="week change-box line clearfix"><span class="semi-transparent">Week change</span><span class="change-value righted"><?php echo $data['LTC']->changes->percent->week; ?>%</span></div>
+                        <div class="month change-box line clearfix"><span class="semi-transparent">Month change</span><span class="change-value righted"><?php echo $data['LTC']->changes->percent->month; ?>%</span></div>
+                    </div>
+                </div>
+                <div class="c-box eth col-lg-4 col-md-6 col-sm-12">
+                    <div class="c-item btc"  data-coin="BTC" data-mode="percent">
+                        <div class="trl"></div>
+                        <div class="title">Bitcoin</div>
+                        <div class="img-box">
+                            <img src="img/btc-coin.png">
+                        </div>
+                        <div class="price line clearfix">Price:<span class="price-value righted">$<?php echo $data['BTC']->last; ?></span></div>
+                        <div class="switch-box line clearfix">
+                            Percent change
+                            <span class="switch on righted">
+                                <div class="switcher"></div>
+                                <div class="reciever-on reciever"></div>
+                                <div class="reciever-off reciever"></div>
+                            </span>
+                        </div>
+                        <div class="hour change-box line clearfix"><span class="semi-transparent">Hour change</span><span class="change-value righted"><?php echo $data['BTC']->changes->percent->hour; ?>%</span></div>
+                        <div class="day change-box line clearfix"><span class="semi-transparent">Day change</span><span class="change-value righted"><?php echo $data['BTC']->changes->percent->day; ?>%</span></div>
+                        <div class="week change-box line clearfix"><span class="semi-transparent">Week change</span><span class="change-value righted"><?php echo $data['BTC']->changes->percent->week; ?>%</span></div>
+                        <div class="month change-box line clearfix"><span class="semi-transparent">Month change</span><span class="change-value righted"><?php echo $data['BTC']->changes->percent->month; ?>%</span></div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+</body>
+</html>

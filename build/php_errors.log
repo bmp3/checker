@@ -1,0 +1,1223 @@
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:36 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:58:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:28 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 16:59:30 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:02:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:40 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:42 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:48 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:03:49 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:23 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:07:24 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:08:10 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:55 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:18:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:19 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:20 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:32 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:19:33 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:21:50 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 53
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 54
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 55
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 56
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:46:56 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:47:05 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 58
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 59
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 60
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 61
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 17:49:01 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 66
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 66
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 66
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 66
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 66
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 66
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:36:59 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:00 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:37:45 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:39:43 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'last' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 51
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'hour' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 62
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'day' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 63
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'week' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 64
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'changes' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'percent' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Notice:  Trying to get property 'month' of non-object in D:\SERVER\WWW\forgrant\build\index.html on line 65
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:40:09 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:51:03 Europe/Zaporozhye] PHP Notice:  Array to string conversion in D:\SERVER\WWW\forgrant\build\index.html on line 21
+[04-Nov-2018 18:51:03 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:51:03 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:51:29 Europe/Zaporozhye] PHP Notice:  Array to string conversion in D:\SERVER\WWW\forgrant\build\index.html on line 21
+[04-Nov-2018 18:51:29 Europe/Zaporozhye] PHP Stack trace:
+[04-Nov-2018 18:51:29 Europe/Zaporozhye] PHP   1. {main}() D:\SERVER\WWW\forgrant\build\index.html:0
+[04-Nov-2018 18:51:33 Europe/Zaporozhye] PHP Fatal error:  Uncaught Error: Call to undefined function json_dicode() in D:\SERVER\WWW\forgrant\build\index.html:21
+Stack trace:
+#0 {main}
+  thrown in D:\SERVER\WWW\forgrant\build\index.html on line 21
+[04-Nov-2018 18:51:46 Europe/Zaporozhye] PHP Fatal error:  Uncaught Error: Call to undefined function json_dicode() in D:\SERVER\WWW\forgrant\build\index.html:21
+Stack trace:
+#0 {main}
+  thrown in D:\SERVER\WWW\forgrant\build\index.html on line 21

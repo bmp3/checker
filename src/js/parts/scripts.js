@@ -28,7 +28,7 @@ jQuery(document).ready( function() {
         var currency = $(e.target).attr('href');
 
         $('.selection-box a').removeClass('current');
-        $(e.target).addClass('current');
+        $(e.target).addClass('current loading');
 
         $.ajax({
             url : 'info.php',
@@ -41,6 +41,7 @@ jQuery(document).ready( function() {
                 $('.c-item').each( function( i, el ) {
                     populateItem( el, loadedData );
                 });
+                $(e.target).removeClass('loading');
             },
             error:function( jqXHR, textStatus, errorThrown )
             {

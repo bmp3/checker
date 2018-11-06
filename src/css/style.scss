@@ -16,6 +16,41 @@
 @import "bootstrap/scss/_transitions.scss";
 
 
+@font-face {
+    font-family: 'Roboto';
+    src: url('../fonts/Roboto-Regular.eot');
+    src: url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Regular.woff') format('woff'),
+    url('../fonts/Roboto-Regular.woff2') format('woff2'),
+    url('../fonts/Roboto-Regular.svg#Roboto-Regular') format('svg'),
+    url('../fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Bold';
+    src: url('../fonts/Robot-Bold.eot');
+    src: url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Bold.woff') format('woff'),
+    url('../fonts/Roboto-Bold.woff2') format('woff2'),
+    url('../fonts/Roboto-Bold.svg#Roboto-Bold') format('svg'),
+url('../fonts/Roboto-Bold.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Roboto Th';
+    src: url('../fonts/Robot-Thin.eot');
+    src: url('../fonts/Roboto-Thin.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Roboto-Thin.woff') format('woff'),
+    url('../fonts/Roboto-Thin.woff2') format('woff2'),
+    url('../fonts/Roboto-Thin.svg#Roboto-Thin') format('svg'),
+url('../fonts/Roboto-Thin.eot?#iefix') format('embedded-opentype');
+    font-weight: normal;
+    font-style: normal;
+}
 
 section.content { padding : 70px 0 125px 0; background-image : url(../img/main-bg.jpg); }
 
@@ -25,6 +60,8 @@ section.content { padding : 70px 0 125px 0; background-image : url(../img/main-b
 .selection-box { position : absolute; right : 30px; width : 300px; }
 .select-box { text-align : left; font-family : 'Roboto Th'; font-size : 16px; padding : 12px; border : 1px solid #92e8fe; border-radius : 5px;  background-color : #1f272f; z-index : 1; cursor : pointer; }
 .select-box a { display : block; position : relative; line-height : 1.5; color : rgba( 255, 255, 255, 0.5 ); }
+.select-box a:after { display : none; font-family : FontAwesome; content : '\f110'; position : absolute; top : 0; left : 50px; font-size : 20px; animation : fa-spin 2s infinite linear; }
+.select-box a.loading:after { display : block; }
 .select-box.main-select a.current, .select-box.inner-select a.current { color : #fff; }
 .select-box a:hover { text-decoration : none; }
 .select-box.main-select { position : relative; }
@@ -62,8 +99,6 @@ section.content { padding : 70px 0 125px 0; background-image : url(../img/main-b
 
 
 
-
-
 .c-item.eth { background-color: #060b01; background-image : url(../img/et-bg.png); background-size : cover; /*background-image: radial-gradient(circle 152px at 104.4% -8.9%, #ffffff 0%, #577a58 61%, #2d4934 100%);*/ }
 .c-item.eth .img-box { z-index : -1; }
 .c-item.eth .img-box img { width: 304px; margin-top: -60px; }
@@ -72,6 +107,10 @@ section.content { padding : 70px 0 125px 0; background-image : url(../img/main-b
 .c-item.btc { background-color : #301103; }
 .c-item.btc .trl { background-image : url(../img/ltc-bg.png); }
 .c-item.btc .img-box img { margin-top : -10px; }
+
+
+
+
 
 @media (max-width: 992px) {
     section.content { background-size: cover; }
